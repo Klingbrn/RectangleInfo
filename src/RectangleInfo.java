@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class RectangleInfo {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         double height = 0;
